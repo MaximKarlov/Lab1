@@ -1,4 +1,3 @@
-const navig = document.querySelector(".navigator")
 const navCity = document.getElementById("navigatorCity")
 const buttons = document.querySelectorAll(".listCityItem")
 const weatherInfo = document.querySelector(".weatherInfo")
